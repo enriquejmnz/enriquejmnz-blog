@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Astro Starter Kit: Blog
 
 ```sh
@@ -66,3 +67,7 @@ Check out [our documentation](https://docs.astro.build) or jump into our [Discor
 ## Credit
 
 This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
+=======
+# enriquejmnz-blog
+Blog Personal en Astro Build
+>>>>>>> 4ff26b05fd6a178cd0a1b1aa8cbd80eecb184638
